@@ -10,5 +10,11 @@
     "AllowedMachineName": "test",
     "ExpiryDate": "2025-04-06T11:02:09.784Z",
     "CreatedDate": "2025-03-07T12:02:09.784Z"
+  },
+  "PREMIUM-4PMOAKD71LDGRR66": {
+    "IsActive": true,
+    "AllowedMachineName": "TEST",
+    "ExpiryDate": "2025-04-06T11:04:40.018Z",
+    "CreatedDate": "2025-03-07T12:04:40.018Z"
   }
 }
