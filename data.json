@@ -4,5 +4,11 @@
     "AllowedMachineName": "Test",
     "ExpiryDate": "2025-04-06T11:01:24.936Z",
     "CreatedDate": "2025-03-07T12:01:24.936Z"
+  },
+  "STANDARD-SF0WBS9WOXUHXO6R": {
+    "IsActive": true,
+    "AllowedMachineName": "test",
+    "ExpiryDate": "2025-04-06T11:02:09.784Z",
+    "CreatedDate": "2025-03-07T12:02:09.784Z"
   }
 }
