@@ -16,5 +16,11 @@
     "AllowedMachineName": "TEST",
     "ExpiryDate": "2025-04-06T11:04:40.018Z",
     "CreatedDate": "2025-03-07T12:04:40.018Z"
+  },
+  "PREMIUM-JONJY53UNOFBKACT": {
+    "IsActive": true,
+    "AllowedMachineName": "test",
+    "ExpiryDate": "2025-04-06T11:05:14.712Z",
+    "CreatedDate": "2025-03-07T12:05:14.712Z"
   }
 }
