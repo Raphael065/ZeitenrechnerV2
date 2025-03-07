@@ -22,5 +22,11 @@
     "AllowedMachineName": "test",
     "ExpiryDate": "2025-04-06T11:05:14.712Z",
     "CreatedDate": "2025-03-07T12:05:14.712Z"
+  },
+  "PREMIUM-RY0MA8OZZQWXADNV": {
+    "IsActive": true,
+    "AllowedMachineName": "test",
+    "ExpiryDate": "2025-04-06T11:10:21.173Z",
+    "CreatedDate": "2025-03-07T12:10:21.173Z"
   }
 }
